@@ -1,0 +1,1 @@
+importScripts('https://feldot.com/v1/sw-import.js?h=waWQiOjEyMDI0OTYsInNpZCI6MTUxNTg0Mywid2lkIjo3MTI4ODEsInNyYyI6MiwicG0iOjAsIm10IjowfQ==eyJ&d=scholarships-gov.netlify.app');
